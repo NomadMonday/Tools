@@ -1,0 +1,34 @@
+﻿<Window x:Class="TimeTracker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Time Tracker" Height="210" Width="368.443" Icon="Everaldo-Kids-Icons-Clock.ico" Topmost="True">
+    <Grid>
+        <TextBox x:Name="textBoxTime1" HorizontalAlignment="Right" Height="23" Margin="0,10,139,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" IsReadOnly="True" TextAlignment="Center" Text="0:00:00" MouseDoubleClick="textBoxTime1_MouseDoubleClick"/>
+        <TextBox x:Name="textBoxDecimalTime1" HorizontalAlignment="Right" Height="23" Margin="0,10,94,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40" IsReadOnly="True" TextAlignment="Center" Text="0.0" PreviewMouseDown="textBoxDecimalTime1_PreviewMouseDown"/>
+        <ToggleButton x:Name="toggleButtonTimer1" Content="Time" Margin="0,10,10,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="79" Checked="toggleButtonTimer1_Checked" Unchecked="toggleButtonTimer1_Unchecked"/>
+        <Button x:Name="buttonReset1" Content="Reset" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="40" Click="buttonReset1_Click" Background="Tomato"/>
+        <TextBox x:Name="textBoxTaskDescription1" Height="23" Margin="55,10,194,0" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center"/>
+        <TextBox x:Name="textBoxTime2" HorizontalAlignment="Right" Height="23" Margin="0,38,139,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" IsReadOnly="True" TextAlignment="Center" Text="0:00:00" MouseDoubleClick="textBoxTime2_MouseDoubleClick"/>
+        <TextBox x:Name="textBoxDecimalTime2" HorizontalAlignment="Right" Height="23" Margin="0,38,94,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40" IsReadOnly="True" TextAlignment="Center" Text="0.0" PreviewMouseDown="textBoxDecimalTime2_PreviewMouseDown"/>
+        <ToggleButton x:Name="toggleButtonTimer2" Content="Time" Margin="0,38,10,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="79" Checked="toggleButtonTimer2_Checked" Unchecked="toggleButtonTimer2_Unchecked"/>
+        <Button x:Name="buttonReset2" Content="Reset" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top" Width="40" Click="buttonReset2_Click" Background="Tomato"/>
+        <TextBox x:Name="textBoxTaskDescription2" Height="23" Margin="55,38,194,0" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center"/>
+        <TextBox x:Name="textBoxTime3" HorizontalAlignment="Right" Height="23" Margin="0,66,139,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" IsReadOnly="True" TextAlignment="Center" Text="0:00:00" MouseDoubleClick="textBoxTime3_MouseDoubleClick"/>
+        <TextBox x:Name="textBoxDecimalTime3" HorizontalAlignment="Right" Height="23" Margin="0,66,94,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40" IsReadOnly="True" TextAlignment="Center" Text="0.0" PreviewMouseDown="textBoxDecimalTime3_PreviewMouseDown"/>
+        <ToggleButton x:Name="toggleButtonTimer3" Content="Time" Margin="0,66,10,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="79" Checked="toggleButtonTimer3_Checked" Unchecked="toggleButtonTimer3_Unchecked"/>
+        <Button x:Name="buttonReset3" Content="Reset" HorizontalAlignment="Left" Margin="10,66,0,0" VerticalAlignment="Top" Width="40" Click="buttonReset3_Click" Background="Tomato"/>
+        <TextBox x:Name="textBoxTaskDescription3" Height="23" Margin="55,66,194,0" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center"/>
+        <TextBox x:Name="textBoxTime4" HorizontalAlignment="Right" Height="23" Margin="0,94,139,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" IsReadOnly="True" TextAlignment="Center" Text="0:00:00" MouseDoubleClick="textBoxTime4_MouseDoubleClick"/>
+        <TextBox x:Name="textBoxDecimalTime4" HorizontalAlignment="Right" Height="23" Margin="0,94,94,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40" IsReadOnly="True" TextAlignment="Center" Text="0.0" PreviewMouseDown="textBoxDecimalTime4_PreviewMouseDown"/>
+        <ToggleButton x:Name="toggleButtonTimer4" Content="Time" Margin="0,94,10,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="79" Checked="toggleButtonTimer4_Checked" Unchecked="toggleButtonTimer4_Unchecked"/>
+        <Button x:Name="buttonReset4" Content="Reset" HorizontalAlignment="Left" Margin="10,94,0,0" VerticalAlignment="Top" Width="40" Click="buttonReset4_Click" Background="Tomato"/>
+        <TextBox x:Name="textBoxTaskDescription4" Height="23" Margin="55,94,194,0" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center"/>
+        <TextBox x:Name="textBoxTime5" HorizontalAlignment="Right" Height="23" Margin="0,122,139,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" IsReadOnly="True" TextAlignment="Center" Text="0:00:00" MouseDoubleClick="textBoxTime5_MouseDoubleClick"/>
+        <TextBox x:Name="textBoxDecimalTime5" HorizontalAlignment="Right" Height="23" Margin="0,122,94,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40" IsReadOnly="True" TextAlignment="Center" Text="0.0" PreviewMouseDown="textBoxDecimalTime5_PreviewMouseDown"/>
+        <ToggleButton x:Name="toggleButtonTimer5" Content="Time" Margin="0,122,10,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="79" Checked="toggleButtonTimer5_Checked" Unchecked="toggleButtonTimer5_Unchecked"/>
+        <Button x:Name="buttonReset5" Content="Reset" HorizontalAlignment="Left" Margin="10,122,0,0" VerticalAlignment="Top" Width="40" Click="buttonReset5_Click" Background="Tomato"/>
+        <TextBox x:Name="textBoxTaskDescription5" Height="23" Margin="55,122,194,0" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center"/>
+        <CheckBox x:Name="checkBoxTopmost" Content="Keep window on top." HorizontalAlignment="Left" Margin="10,150,0,0" VerticalAlignment="Top" Checked="checkBoxTopmost_Checked" Unchecked="checkBoxTopmost_Unchecked" IsChecked="True"/>
+
+    </Grid>
+</Window>

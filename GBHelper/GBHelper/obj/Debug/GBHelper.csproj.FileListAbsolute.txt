@@ -1,0 +1,36 @@
+H:\Source Code\GBHelper\GBHelper\bin\Debug\GBHelper.exe.config
+H:\Source Code\GBHelper\GBHelper\obj\Debug\GBHelper.csprojResolveAssemblyReference.cache
+H:\Source Code\GBHelper\GBHelper\obj\Debug\MainWindow.baml
+H:\Source Code\GBHelper\GBHelper\obj\Debug\MainWindow.g.cs
+H:\Source Code\GBHelper\GBHelper\obj\Debug\App.g.cs
+H:\Source Code\GBHelper\GBHelper\obj\Debug\GBHelper_MarkupCompile.cache
+H:\Source Code\GBHelper\GBHelper\obj\Debug\GBHelper.g.resources
+H:\Source Code\GBHelper\GBHelper\obj\Debug\GBHelper.Properties.Resources.resources
+H:\Source Code\GBHelper\GBHelper\obj\Debug\GBHelper.csproj.GenerateResource.Cache
+H:\Source Code\GBHelper\GBHelper\bin\Debug\GBHelper.exe
+H:\Source Code\GBHelper\GBHelper\bin\Debug\GBHelper.pdb
+H:\Source Code\GBHelper\GBHelper\obj\Debug\GBHelper.exe
+H:\Source Code\GBHelper\GBHelper\obj\Debug\GBHelper.pdb
+H:\Source Code\GBHelper\GBHelper\bin\Debug\GBHelper.exe.manifest
+H:\Source Code\GBHelper\GBHelper\bin\Debug\GBHelper.application
+H:\Source Code\GBHelper\GBHelper\obj\Debug\GBHelper.TrustInfo.xml
+H:\Source Code\GBHelper\GBHelper\obj\Debug\GBHelper.exe.manifest
+H:\Source Code\GBHelper\GBHelper\obj\Debug\GBHelper.application
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\bin\Debug\GBHelper.exe.config
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\obj\Debug\GBHelper.exe
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\obj\Debug\GBHelper.pdb
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\bin\Debug\GBHelper.exe.manifest
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\bin\Debug\GBHelper.application
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\bin\Debug\GBHelper.exe
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\bin\Debug\GBHelper.pdb
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\obj\Debug\GBHelper.csprojResolveAssemblyReference.cache
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\obj\Debug\MainWindow.baml
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\obj\Debug\MainWindow.g.cs
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\obj\Debug\App.g.cs
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\obj\Debug\GBHelper_MarkupCompile.cache
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\obj\Debug\GBHelper.g.resources
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\obj\Debug\GBHelper.Properties.Resources.resources
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\obj\Debug\GBHelper.csproj.GenerateResource.Cache
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\obj\Debug\GBHelper.TrustInfo.xml
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\obj\Debug\GBHelper.exe.manifest
+C:\BitBucket\dls\Programs\GBHelper\GBHelper\obj\Debug\GBHelper.application
